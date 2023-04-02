@@ -14,11 +14,3 @@ if __name__ == '__main__' :
         command = f"say {x}"
         os.system(command)
 
-
-
-
-
-
-
-
-
